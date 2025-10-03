@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sulton
 
-<!--
-**sulton-max/sulton-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer | .NET + Vue**
 
-Here are some ideas to get you started:
+On a mission to become a 10x engineer and build profitable SaaS products. Documenting everything along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Current Focus (Q4 2025)
+
+**Learning:** 1 Library + 1 Tech + 1 Certificate
+
+| Category   | Technology                        | Status         | Repository                                                                             |
+| ---------- | --------------------------------- | -------------- | -------------------------------------------------------------------------------------- |
+| 📚 Library | **Polly** (Resilience & Retry)    | 🟡 In Progress | [polly-learning](https://github.com/WoW-2-0-Core/Codespace.LLA.ResiliencePatterns.git) |
+| ⚡ Tech    | **Redis** (Caching & Performance) | 🟡 In Progress | [redis-learning](https://github.com/sulton-max/Codespace.LLA.DataStores.Redis.git)     |
+| 🎓 Cert    | **AZ-204** (Azure Developer)      | 🟡 Studying    | [az-204-notes]()                                                                       |
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:** .NET 8, C#, ASP.NET Core, EF Core, Dapper  
+**Frontend:** Vue 3, TypeScript, Tailwind CSS  
+**Infrastructure:** Azure, Docker, Redis, PostgreSQL
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sultonbek-rakhimov/)
+- 🐦 [Twitter/X](https://x.com/sulton_max)
+- 📧 [Email](mailto:sultonbek.rakhimov@gmail.com)
+
+---
